@@ -1,3 +1,20 @@
+## Check Out DevBuddyAI at DevPost
+- DevPost Link: https://devpost.com/software/devbuddyai
+- Live Deployed DevBuddyAI Website: https://mhacks24-c8239.web.app
+- Youtube Demo Video: [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=bn8vNJyFCPA)
+
+- [![YouTube Video](https://img.youtube.com/vi/bn8vNJyFCPA/0.jpg)](https://www.youtube.com/watch?v=bn8vNJyFCPA)
+
+[Visit the Website](https://mhacks24-c8239.web.app)
+
+## Check Out DevBuddyAI at DevPost
+DevPost Link: https://devpost.com/software/devbuddyai
+Live Deployed DevBuddyAI Website: https://mhacks24-c8239.web.app
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
